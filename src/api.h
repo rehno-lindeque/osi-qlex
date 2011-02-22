@@ -83,7 +83,7 @@ namespace QLex
 
 /*                                   INCLUDES                               */
 // Inline implementation
-#ifdef OSI_STATIC_C_BUILD
+#ifdef OSI_C_STATIC_BUILD
 #include "api.inl"
 #endif
 
